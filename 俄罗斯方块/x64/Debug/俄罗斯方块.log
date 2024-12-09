@@ -1,0 +1,5 @@
+﻿  tetris.cpp
+C:\Users\GGPC\Desktop\c++ code\俄罗斯方块 - 副本\俄罗斯方块\tetris.cpp(45,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\GGPC\Desktop\c++ code\俄罗斯方块 - 副本\俄罗斯方块\tetris.cpp(49,7): warning C4101: 'data': unreferenced local variable
+C:\Users\GGPC\Desktop\c++ code\俄罗斯方块 - 副本\俄罗斯方块\tetris.cpp(168,11): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'int', possible loss of data
+  俄罗斯方块.vcxproj -> C:\Users\GGPC\Desktop\c++ code\俄罗斯方块 - 副本\x64\Debug\俄罗斯方块.exe
